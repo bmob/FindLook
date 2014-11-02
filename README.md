@@ -22,8 +22,14 @@ FindLook
 测试数据
 -------
 
-objectId  type	 name	 description	    value	 picture	   url
-BO3M5558  水果    桃子	 新鲜的桃子、产自湖北	60	 c_shop_xing.png   http://www.baidu.com 
+objectId  	BO3M5558
+type	 	水果 
+name	 	桃子
+description	新鲜的桃子、产自湖北    
+value	 	60
+picture	   	c_shop_xing.png
+url		http://www.baidu.com
 
+启动FindLook, 扫描下面二维码，既可以获得桃子的性价比排名     	 		     
 ![github](https://github.com/Stonekity/FindLook/blob/master/qrcode.png)
 
