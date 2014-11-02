@@ -23,9 +23,9 @@ FindLook
 -------
 
 objectId  	BO3M5558
-type	 	水果 
+type	 	水果
 name	 	桃子
-description	新鲜的桃子、产自湖北    
+description	新鲜的桃子、产自湖北
 value	 	60
 picture	   	c_shop_xing.png
 url		http://www.baidu.com
