@@ -4,7 +4,6 @@ FindLook
 基于Bmob的二维码扫描工具，通过扫描二维码、条形码获取到商品性价比排名
 
 
-<<<<<<< HEAD
 
 项目截图
 -------
@@ -28,6 +27,3 @@ objectId  type	 name	 description	    value	 picture	        url
 BO3M5558  水果    桃子	 新鲜的桃子、产自湖北	60	     c_shop_xing.png	http://www.baidu.com 
 
 ![github](https://github.com/Stonekity/FindLook/blob/master/qrcode.png)
-=======
-![github](https://github.com/Stonekity/FindLook/blob/master/Screenshot1.png)     ![github](https://github.com/Stonekity/FindLook/blob/master/Screenshot2.png)
->>>>>>> d73421f2ac8626a6b6826ee176685500c697f2b7
