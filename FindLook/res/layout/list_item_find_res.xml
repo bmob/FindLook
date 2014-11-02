@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="horizontal" >
+    
+	<TextView 
+	    android:id="@+id/tv_goods_rank"
+	    android:layout_width="wrap_content"
+	    android:layout_height="match_parent"
+	    android:gravity="center"
+	    android:padding="5dp"
+	    android:text="n.1"
+	    android:textSize="20sp"
+	    android:textStyle="bold"
+	    android:textColor="#696969"/>
+	
+	<ImageView 
+	    android:id="@+id/img_good_picture"
+	    android:layout_width="80dp"
+	    android:layout_height="80dp"
+	    android:padding="8dp"
+	    android:src="@drawable/ic_app"
+	    android:contentDescription="Good Picture"/>
+	
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:gravity="center"
+	    android:orientation="vertical">
+	    
+	    <TextView 
+	        android:id="@+id/tv_good_name"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:padding="5dp"
+	        android:text="酸奶"
+	        android:textSize="16sp"
+	        android:textColor="#696969"
+	        android:textStyle="bold"/>
+	    
+	    <TextView 
+	        android:id="@+id/tv_good_description"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:padding="5dp"
+	        android:text="伊利 饮料 酸奶 保质期25天"
+	        android:textSize="14sp"
+	        android:textColor="#a9a9a9" />
+	    
+	</LinearLayout>
+	
+</LinearLayout>

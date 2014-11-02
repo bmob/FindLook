@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HandlerLeak" severity="ignore" />
+    <issue id="InflateParams" severity="ignore" />
+    <issue id="ResourceAsColor">
+        <ignore path="src/com/candc/findlook/GoodsListAdapter.java" />
+    </issue>
+    <issue id="SetJavaScriptEnabled">
+        <ignore path="src/com/candc/findlook/WebActivity.java" />
+    </issue>
+</lint>
